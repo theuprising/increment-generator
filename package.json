@@ -1,9 +1,11 @@
 {
   "name": "increment-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Andrew J. Monks <a@monks.co>",
   "license": "ISC",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "build": "babel src -d lib"
   },
