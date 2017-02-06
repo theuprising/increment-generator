@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "author": "Andrew J. Monks <a@monks.co>",
   "license": "ISC",
+  "files": ["lib"],
   "scripts": {
     "build": "babel src -d lib"
   },
